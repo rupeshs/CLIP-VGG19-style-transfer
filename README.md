@@ -13,3 +13,8 @@ Loss = Content loss + CLIP loss + Total variation loss
 Text prompt  "a starry night style painting" used to produce the below output
 
 ![starry night output](/output/styled_starry_night.png)
+
+
+https://user-images.githubusercontent.com/3255994/121798497-4c026580-cc44-11eb-8c84-1b66e56cee59.mp4
+
+
