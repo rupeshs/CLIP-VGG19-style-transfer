@@ -4,9 +4,9 @@ Style transferring using VGG 19 and OpenAI's CLIP.
 
 In normal style transfer gram matrix is used to transfer style but here we can use CLIP model.
 
-Total loss is can be defined as
+Total loss can be defined as
 
-Loss = Content loss + CLIP loss + Total variation loss
+Total loss = Content loss + CLIP loss + Total variation loss
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://bit.ly/3gpEiCO)
 
