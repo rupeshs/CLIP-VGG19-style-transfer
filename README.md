@@ -1,4 +1,4 @@
-# CLIP-VGG19-style-transfer
+# CLIP-VGG19-style-transfer (experiment)
 
 Style transferring using VGG 19 and OpenAI's CLIP.
 
@@ -17,4 +17,10 @@ Text prompt  "a starry night style painting" used to produce the below output
 
 https://user-images.githubusercontent.com/3255994/121798497-4c026580-cc44-11eb-8c84-1b66e56cee59.mp4
 
+
+## References 
+
+[1] [CLIP style transfer ](https://github.com/Zasder3/CLIP-Style-Transfer)\
+[2] [CLIP](https://openai.com/blog/clip)\
+[3] [Total variation denoising](https://en.wikipedia.org/wiki/Total_variation_denoising)
 
